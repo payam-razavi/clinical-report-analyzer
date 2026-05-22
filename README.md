@@ -240,8 +240,7 @@ Custom preprocessing logic was added to:
 
 ```bash
 
-cd Phase2\_Report\_Analysis
-
+cd Phase2_Report_Analysis
 streamlit run app.py
 
 ```
@@ -296,6 +295,7 @@ Clinical_Report_Analyzer/
 
 ### Image-Heavy Pathology Report Handling
 ![Image-Based Report](screenshots/image_based_report.png)
+
 
 
 \## Future Improvements
